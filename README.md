@@ -1,4 +1,4 @@
-# spassChatGPT 4o mini
+# spass
 
 Log in
 
@@ -83,15 +83,7 @@ License
 This project is licensed under the MIT License - see the LICENSE.md file for details.
 
 css
-Copy code
-
-This `README.md` provides a clear overview of your SPASS project, explains the functionality, and provides steps to set up the project locally. You can further expand it based on additional features or details about the project.
 
 
 
 
-
-
-
-ChatGPT can make mistakes. Check important info.
-?
