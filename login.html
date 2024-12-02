@@ -1,0 +1,44 @@
+
+<!-- Login Modal -->
+<div class="login-modal" id="loginModal">
+  <div class="modal-content">
+    <span class="close-btn" id="closeModal">&times;</span>
+    <h2>Login</h2>
+    <form class="login-form">
+      <label for="username">Username</label>
+      <input type="text" id="username" placeholder="Enter your username" required>
+      
+      <label for="password">Password</label>
+      <input type="password" id="password" placeholder="Enter your password" required>
+      
+      <button type="submit">Login</button>
+    </form>
+  </div>
+</div>
+
+
+
+</style>
+
+<script>
+  const loginBtn = document.querySelector('.login-btn');
+  const loginModal = document.getElementById('loginModal');
+  const closeModal = document.getElementById('closeModal');
+
+  // Show modal when login button is clicked
+  loginBtn.addEventListener('click', () => {
+    loginModal.style.display = 'flex';
+  });
+
+  // Hide modal when close button is clicked
+  closeModal.addEventListener('click', () => {
+    loginModal.style.display = 'none';
+  });
+
+  // Hide modal when clicking outside the modal content
+  window.addEventListener('click', (e) => {
+    if (e.target === loginModal) {
+      loginModal.style.display = 'none';
+    }
+  });
+</script>
