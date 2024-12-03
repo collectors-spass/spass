@@ -357,3 +357,11 @@ clear: both;
   color: #333;
   cursor: pointer;
 }
+
+.signup_btn{
+  padding: 1rem;
+  background-color: #555;
+  color: #f0f0f0;
+  border: none;
+  outline: none;
+}
