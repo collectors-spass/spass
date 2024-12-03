@@ -1,11 +1,11 @@
-Spass - Motorist Tax Collection Portal
+**Spass - Motorist Tax Collection Portal**
 
 Spass is a digital solution designed to streamline and modernize tax collection from motorists, replacing the outdated and inefficient local "agbero" method. By leveraging this web-based platform, stakeholders can ensure transparency, efficiency, and accountability in the tax collection process.
 
 
 ---
 
-Project Overview
+**Project Overview**
 
 Spass provides an intuitive interface for motorists and administrators alike. With a focus on simplicity and functionality, the portal allows users to:
 
@@ -21,7 +21,7 @@ Access services related to tax payments and records.
 
 ---
 
-Team Contributions
+**Team Contributions**
 
 This project was collaboratively developed by a talented group of contributors:
 
@@ -41,7 +41,7 @@ This project was collaboratively developed by a talented group of contributors:
 
 ---
 
-Project Pages
+**Project Pages**
 
 1. Home.html - The landing page, providing an overview of Spass.
 
