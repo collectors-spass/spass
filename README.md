@@ -28,10 +28,10 @@ This project was collaboratively developed by a talented group of contributors:
 1. Adibe Stanley Chukwuka - Designed and developed the Home page (home.html).
 
 
-2. Ben E.G.B - Built the Login page (login.html).
+2. Egbo Benedict- Built the signup page (signup.html).
 
 
-3. Favor Iwuchukwu - Created the Signup page (signup.html).
+3. Favor Iwuchukwu - Created the login page (login.html).
 
 
 4. God's Own Anyadiegwu - Implemented the Backend functionality to ensure seamless data management and user interactions.
